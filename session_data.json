@@ -1,0 +1,48 @@
+{
+  "timestamp": "2026-10-02T17:12:03.756089",
+  "active_persons": 0,
+  "max_persons": 8,
+  "gaze_data": {
+    "shirt": {
+      "fixations": 9,
+      "total_time": 4.036
+    },
+    "hoodies": {
+      "fixations": 2,
+      "total_time": 1.514
+    },
+    "tracksuit": {
+      "fixations": 3,
+      "total_time": 0.735
+    }
+  },
+  "emotion_data": {
+    "shirt": {
+      "happy": 0,
+      "sad": 0,
+      "neutral": 0,
+      "angry": 0,
+      "surprise": 0,
+      "fear": 0,
+      "disgust": 0
+    },
+    "hoodies": {
+      "happy": 0,
+      "sad": 0,
+      "neutral": 0,
+      "angry": 0,
+      "surprise": 0,
+      "fear": 0,
+      "disgust": 0
+    },
+    "tracksuit": {
+      "happy": 0,
+      "sad": 0,
+      "neutral": 0,
+      "angry": 0,
+      "surprise": 0,
+      "fear": 0,
+      "disgust": 0
+    }
+  }
+}
